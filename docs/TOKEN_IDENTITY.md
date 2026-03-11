@@ -1,8 +1,13 @@
 # TOKEN IDENTITY — LOCKED FIELDS + GOVERNED PARAMETERS + APPEND-ONLY RECORDS
 
-**Document Version:** 1.0  
+**Document Version:** 1.1  
 **Status:** Canonical  
 **Initial Publication:** 2026-03-11
+
+## Revision History
+
+- 1.1 — Added official Ethereum and Solana contract addresses (2026-03-11)
+- 1.0 — Initial canonical publication (2026-03-11)
 
 ## Core Identity (LOCKED)
 
@@ -144,8 +149,25 @@ The contract architecture and token mechanics are considered production-ready ba
 
 ## Official Contract Addresses (APPEND-ONLY)
 
-At the time of this document’s initial publication, no mainnet deployments have yet been completed. Official contract addresses will be added here after final mainnet deployment and verification.
+The following addresses represent the official mainnet deployments of the
+Aartaler (ARTLR) token.
 
+Only the addresses listed in this section are considered canonical
+deployments of the token.
+
+### Ethereum
+
+- Network: Ethereum Mainnet  
+- Token Standard: ERC-20  
+- Contract Address:  
+  `0x82c534CEF5674579b0a5C5cE84688e6946760D15`
+
+### Solana
+
+- Network: Solana Mainnet  
+- Token Standard: SPL Token  
+- Mint Address:  
+  `J2Zeix1hCFud5sk6LfcmkS4TtjS9yrTfZ3LiUMmgLjNM`
 
 ---
 

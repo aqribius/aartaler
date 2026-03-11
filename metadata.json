@@ -1,10 +1,10 @@
 {
   "name": "Aartaler",
   "symbol": "ARTLR",
-  "description": "A multi-chain payment token issued under Swiss law. The token is not designed as a stablecoin and does not represent a peg, redemption claim, or fixed value commitment.",
+  "description": "A multi-chain payment token issued under Swiss law. The token is not designed as a stablecoin and does not represent a peg, redemption claim, or fixed-value commitment.",
   "image": "https://raw.githubusercontent.com/aqribius/aartaler/main/assets/aartaler_logo_1024.png",
   "external_url": "https://github.com/aqribius/aartaler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "attributes": [
     { "trait_type": "Decimals", "value": "2" },
     { "trait_type": "Network", "value": "Multi-chain" }
@@ -19,6 +19,18 @@
     "canonical_identity": "https://raw.githubusercontent.com/aqribius/aartaler/main/docs/TOKEN_IDENTITY.md",
     "checksum": {
       "logo_sha256": "56095a3c2c4c6ead73577fa43ed945eba6c2487e15f68643552095c7dd718870"
+    },
+    "deployments": {
+      "ethereum": {
+        "network": "Ethereum Mainnet",
+        "token_standard": "ERC-20",
+        "contract_address": "0x82c534CEF5674579b0a5C5cE84688e6946760D15"
+      },
+      "solana": {
+        "network": "Solana Mainnet",
+        "token_standard": "SPL Token",
+        "mint_address": "J2Zeix1hCFud5sk6LfcmkS4TtjS9yrTfZ3LiUMmgLjNM"
+      }
     }
   }
 }

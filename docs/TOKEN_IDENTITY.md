@@ -1,11 +1,12 @@
 # TOKEN IDENTITY — LOCKED FIELDS + GOVERNED PARAMETERS + APPEND-ONLY RECORDS
 
-**Document Version:** 1.0  
+**Document Version:** 1.1  
 **Status:** Canonical  
 **Initial Publication:** 2026-07-01
 
 ## Revision History
 
+- 1.1 — Added official website and Ethereum/Solana mainnet contract addresses (2026-07-02)
 - 1.0 — Initial canonical publication (2026-07-01)
 
 ## Core Identity (LOCKED)
@@ -123,10 +124,10 @@ aartaler_logo_1024.png
 The following links represent official public endpoints of the project. New links may be added over time. Existing links MUST NOT be removed or altered.
 
 **Website:**  
+https://www.aartaler.ch
 
 
 **Twitter / X:**  
-
 
 
 ---
@@ -159,14 +160,14 @@ deployments of the token.
 - Network: Ethereum Mainnet  
 - Token Standard: ERC-20  
 - Contract Address:  
-  `tbd`
+  `0x07F3801895816B5F5E12e2Ee8D943a259b1d65b4`
 
 ### Solana
 
 - Network: Solana Mainnet  
 - Token Standard: SPL Token  
 - Mint Address:  
-  `tbd`
+  `6ULmvzqgBZ6zM4Z5UUc7ykYM2qs4jC7B7oGnsMexpMUx`
 
 ---
 

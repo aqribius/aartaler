@@ -4,7 +4,7 @@
   "description": "A multi-chain payment token issued under Swiss law. The token is not designed as a stablecoin and does not represent a peg, redemption claim, or fixed-value commitment.",
   "image": "https://www.aartaler.ch/assets/aartaler_logo_1024.png",
   "external_url": "https://github.com/aqribius/aartaler",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "attributes": [
     { "trait_type": "Decimals", "value": "2" },
     { "trait_type": "Network", "value": "Multi-chain" }
@@ -24,12 +24,12 @@
       "ethereum": {
         "network": "Ethereum Mainnet",
         "token_standard": "ERC-20",
-        "contract_address": ""
+        "contract_address": "0x07F3801895816B5F5E12e2Ee8D943a259b1d65b4"
       },
       "solana": {
         "network": "Solana Mainnet",
         "token_standard": "SPL Token",
-        "mint_address": ""
+        "mint_address": "6ULmvzqgBZ6zM4Z5UUc7ykYM2qs4jC7B7oGnsMexpMUx"
       }
     }
   }
